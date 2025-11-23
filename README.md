@@ -749,22 +749,4 @@ By studying this project, you'll learn:
 
 ---
 
-## 📝 License
 
-[Specify your license - MIT, Apache 2.0, etc.]
-
----
-
-## 🤝 Support
-
-For issues or questions:
-1. Check the Troubleshooting section
-2. Review Docker logs: `docker logs <service_name>`
-3. Verify all services are running: `docker-compose ps`
-4. Check PostgreSQL directly for data: `docker exec postgres psql ...`
-
----
-
-**Last Updated**: November 2024  
-**Architecture**: Event-Driven Streaming Data Pipeline  
-**Status**: Production Ready (with config adjustments)
